@@ -31,8 +31,8 @@
     width: 233px;
     height: 69px;
     border-radius: 75px;
-    background: #ededed;
-    color: #787878;
+    background: linear-gradient(180deg,#E5C5BD,#B4BFC5 60%);
+    color: #454545;
     font-size: 18px;
     font-weight: 500;
 }
